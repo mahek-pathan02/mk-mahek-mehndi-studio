@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mahek-pathan02.github.io/mk-mahek-mehndi-studio/sitemap.xml
